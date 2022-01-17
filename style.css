@@ -372,8 +372,8 @@ footer {
 @media (max-width: 535px) {
 
     .shape {
-        width: 40px;
-        height: 40px;
+        width: 35px;
+        height: 35px;
         
     }
 
@@ -413,22 +413,22 @@ footer {
 
     .shape--1 {
         top: 12vh;
-        left: 5vw;
+        left: 3vw;
     }
 
     .shape--2 {
         top: 12vh;
-        left: 75vw;
+        left: 79vw;
     }
 
     .shape--3 {
         top: 50vh;
-        left: 7vw;
+        left: vw;
     }
 
     .shape--4 {
         top: 50vh;
-        left: 72vw;
+        left: 79vw;
     }
 
 
