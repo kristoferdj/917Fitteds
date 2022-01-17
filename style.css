@@ -345,7 +345,8 @@ footer {
     position: fixed;
     width: 100px;
     height: 100px;
-    z-index: 1;
+    z-index: 1; 
+    
 }
 
 .shape--1 {
@@ -379,7 +380,7 @@ footer {
 
     .nav__link {
         font-size: 18px;
-        ;
+        
     }
 
     .instagram__btn {
@@ -454,7 +455,7 @@ footer {
     .shape {
         width: 60px;
         height: 60px;
-    
+        position: absolute;
     }
 
 
