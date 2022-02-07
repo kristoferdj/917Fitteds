@@ -60,8 +60,8 @@ nav {
 }
 
 header {
-    height: calc(100vh - 400px);
-    margin-bottom: 128px;
+    height: calc(100vh - 250px);
+    margin-bottom: 204px;
 }
 
 #heading {
